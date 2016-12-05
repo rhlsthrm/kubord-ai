@@ -7,7 +7,7 @@ Included in the repo is a compiled binary named "kubard". The binary was created
 
     `$ ./kubord`
 
-# Prerequsities
+# Prerequsities (source only)
 * **Node.js** (tested with v5.11.0 only, should work with other versions)
     * Install using instructions at https://nodejs.org/en/download/.
 * **prompt** npm package (https://github.com/flatiron/prompt)
@@ -15,7 +15,7 @@ Included in the repo is a compiled binary named "kubard". The binary was created
 
     `$ npm install prompt`
     
-# Usage
+# Usage (source only)
 * Unzip files.
 * Navigate to files in terminal window.
 * Use the following command to run the program:
