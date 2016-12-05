@@ -3,7 +3,7 @@
 Simple example program to demonstrate a basic predictive engine.
 
 # Running from Prebuilt Executable
-Included in the repo is a compiled binary named "kubard". The binary was created using EncloseJS (http://enclosejs.com/) and should not require any additional software installation. To run the executable, simply navigate to the file on the command line and run the executable:
+Included in the repo is a compiled binary named "kubard". The binary was created using EncloseJS (http://enclosejs.com/) and should not require any additional software installation. To run the executable, simply navigate to the file on the command line and run the executable. Tested on macOS only:
 
     `$ ./kubord`
 
