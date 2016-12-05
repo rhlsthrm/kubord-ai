@@ -20,4 +20,4 @@ Simple example program to demonstrate a basic predictive engine.
 
 # Possible Improvements
 * Store data in database to persist trends across sessions. Right now, data is stored in memory and a new session will reinitialize all user input data.
-* Use cloud database to build big data engine. This engine will store data from all users and can be used to find patterns within the data, such as "users who choose Y 7 times in the last 10 choices choose Y again on the 11th time 65% of the time" to make more educated guesses.
+* Use cloud database to build big data engine. This engine will store data from all users and can be used to find patterns within the data, such as "users who choose "Y" 7 times in the last 10 choices choose "Y" again on the 11th time 65% of the time" to make more educated guesses.
